@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arnav-portfolio/static/css/main.76ff40f4.chunk.css",
+    "main.js": "/arnav-portfolio/static/js/main.b347ae75.chunk.js",
+    "main.js.map": "/arnav-portfolio/static/js/main.b347ae75.chunk.js.map",
+    "runtime-main.js": "/arnav-portfolio/static/js/runtime-main.0fe176a9.js",
+    "runtime-main.js.map": "/arnav-portfolio/static/js/runtime-main.0fe176a9.js.map",
+    "static/js/2.48c9b7c0.chunk.js": "/arnav-portfolio/static/js/2.48c9b7c0.chunk.js",
+    "static/js/2.48c9b7c0.chunk.js.map": "/arnav-portfolio/static/js/2.48c9b7c0.chunk.js.map",
+    "index.html": "/arnav-portfolio/index.html",
+    "precache-manifest.95e5c336968b272358d4906db84bb7e7.js": "/arnav-portfolio/precache-manifest.95e5c336968b272358d4906db84bb7e7.js",
+    "service-worker.js": "/arnav-portfolio/service-worker.js",
+    "static/css/main.76ff40f4.chunk.css.map": "/arnav-portfolio/static/css/main.76ff40f4.chunk.css.map",
+    "static/js/2.48c9b7c0.chunk.js.LICENSE.txt": "/arnav-portfolio/static/js/2.48c9b7c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fe176a9.js",
+    "static/js/2.48c9b7c0.chunk.js",
+    "static/css/main.76ff40f4.chunk.css",
+    "static/js/main.b347ae75.chunk.js"
+  ]
+}
