@@ -1,2 +1,1 @@
-Portfolio (completed finally, phew!)
-Based on HTML, CSS, React and NodeJS
+Portfolio (completed finally, phew!) based on HTML, CSS, React and NodeJS
